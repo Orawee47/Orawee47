@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3QwdnhuMnBwanVlanIweTZpdThtdzExZWp1ZHVkamN3Ym94bHhuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" alt="Animated GIF" width="1000" height="400">
+</div>
+
+
 # Hi! 👋 My name is Orawee Thapar-sa
 
 "I am studying in the field of Computer Science."
