@@ -1,5 +1,5 @@
 ## Hi , I'm Orawee Thapar-sa 👋
-# Nice to meet you😄 
+- Nice to meet you 😄 
 
 <!--
 **gangkhathi/gangkhathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
