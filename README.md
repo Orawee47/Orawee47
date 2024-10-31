@@ -20,11 +20,11 @@
         <img src="https://img.shields.io/github/followers/gangkhathi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" style="width: 105px; height: auto;" />
     </a>
     
-<img src="https://komarev.com/ghpvc/?username=gangkhathi&style=flat-square&color=blue" alt="account cpunter"/>
+ <img src="https://komarev.com/ghpvc/?username=gangkhathi&style=flat-square&color=blue" alt="account cpunter"/>
 </div>
 
 
-### :hammer_and_wrench: Skills :
+### :hammer_and_wrench: Skills : 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p> 
