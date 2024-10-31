@@ -13,7 +13,8 @@
 - :school: I'm studying in the field of Computer Science.
 - 💻 I am learning to write code in a wider variety of programming languages
 - 💖 Personal motto : " Success is not the key to happiness. Happiness is the key to success. "
-
+* ✉️  You can contact me at [oraweethapsa@gmail.com](mailto:oraweethapsa@gmail.com)
+* 
 <div style="text-align: center;">
     <a href="https://www.github.com/gangkhathi" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/github/followers/gangkhathi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" style="width: 105px; height: auto;" />
